@@ -1,0 +1,9 @@
+Package: com.fortysixandtwo.lsflatalerts
+Name: LSFlatAlerts
+Depends: mobilesubstrate
+Version: 1.3
+Architecture: iphoneos-arm
+Description: Kills the new alert popup, sends alert directly to the list view on the lockscreen.
+Maintainer: magn2o
+Author: magn2o
+Section: Tweaks
